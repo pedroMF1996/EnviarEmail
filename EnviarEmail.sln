@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnviarEmail", "EnviarEmail\EnviarEmail.csproj", "{62C8A633-F7DD-482F-ABC6-A644D4DAB869}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendEmails", "SendEmails\SendEmails.csproj", "{A56E9325-BEB1-4EF3-B128-6C4C63F2D983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62C8A633-F7DD-482F-ABC6-A644D4DAB869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62C8A633-F7DD-482F-ABC6-A644D4DAB869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62C8A633-F7DD-482F-ABC6-A644D4DAB869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62C8A633-F7DD-482F-ABC6-A644D4DAB869}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56E9325-BEB1-4EF3-B128-6C4C63F2D983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56E9325-BEB1-4EF3-B128-6C4C63F2D983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56E9325-BEB1-4EF3-B128-6C4C63F2D983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56E9325-BEB1-4EF3-B128-6C4C63F2D983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F26F4FFA-2114-49EB-9C69-3F765FC79D6E}
+	EndGlobalSection
+EndGlobal
